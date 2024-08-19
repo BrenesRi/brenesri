@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Ricardo Brenes! 👋
 
-<!--
-**BrenesRi/brenesri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am in my final year of Systems Engineering at Universidad Nacional de Costa Rica (UNA), with knowledge in multiple programming languages, including C++, C, Java, Python, and JavaScript, among others. My passion for technology drives me to continuously learn new skills and stay current. 
 
-Here are some ideas to get you started:
+![brenesri's Stats](https://github-readme-stats.vercel.app/api?username=brenesri&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 I'm currently pursuing my Bachelor's in Computer Science at Universidad Nacional de Costa Rica.
+- 🌱 I’m currently learning full stack development as well as data analysis and a bit of cybersecurity.
+- ✍️ As a part of a university project, I developed a web page for inventory management for the company SMC. We used Next.js as the web framework.
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+ ## 🏆 Achievements
+
+- 🌟 Scrum Fundamentals Certified (SFC™) - ScrumStudy Certification.
+- 🌟 TOEFL ITP 610: B2. Upper intermediate.
+
+## 📬 Get in Touch
+
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/ricardobrenes/)
+- Reach me on my e-mail; ribrenes10@gmail.com
